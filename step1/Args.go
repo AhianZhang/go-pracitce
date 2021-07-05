@@ -6,7 +6,7 @@ import (
 )
 
 /**
-  go run ./Args.go Hello World
+cmd: go run ./Args.go Hello World
 */
 func main() {
 	var s, sep string
